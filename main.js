@@ -13,3 +13,16 @@ function mostrarAlerta (){
 function somar (valorA, valorB){
     alert(valorA + valorB)
 }
+
+/* exemplo 3 */
+
+function mensagemBoas-vindas(nome,cargo){
+
+    return 'seja bem-vindo (a) ${cargo} ${nome}'
+
+}
+
+let nome = prompt ("Digite o nome do funcionário:")
+
+alert (mensagemBoasVindas (nome, cargo))
+console.log (mensagemBoasVindas(nome, cargo))
