@@ -43,3 +43,17 @@ console.log(multiplicacao2)
 console.log(multiplicacao3)
 
 
+/* exemplo 5 */
+
+function parOuImpar (numero) {
+
+    if (numero %2 === 0) {
+
+        return "par"
+    }
+
+    return "Impar"
+}
+
+console.log (parOuImpar(14))
+
