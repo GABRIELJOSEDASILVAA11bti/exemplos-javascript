@@ -1,4 +1,4 @@
-/* exempo */
+/* exempo 1*/
 
 function mostrarAlerta (){
 
@@ -6,4 +6,10 @@ function mostrarAlerta (){
     alert ("Seja bem-vindo(a)," + nome)
 
 
+}
+
+/* exemplo 2 */
+
+function somar (valorA, valorB){
+    alert(valorA + valorB)
 }
