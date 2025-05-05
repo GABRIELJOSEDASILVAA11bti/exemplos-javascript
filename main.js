@@ -57,3 +57,17 @@ function parOuImpar (numero) {
 
 console.log (parOuImpar(14))
 
+
+/* exemplo 6 */
+ 
+let numero = 10
+const button = document.querySelector
+("button")
+button.add EventListener ("click" function()) {
+
+
+    numero ++
+    console.log (numero)
+} 
+
+console.log (numero)
